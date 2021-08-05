@@ -1,0 +1,19 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "nome": "Eduardo",
+            "mensagem": "Seja bem vindo"
+        },
+        {
+            "id": 2,
+            "nome": "Graciane",
+            "mensagem": "Primeiro Post"
+        },
+        {
+            "id": 3,
+            "nome": "Carlos",
+            "mensagem": "Trabalhando com Springboot e angular"
+        }
+    ]
+}
